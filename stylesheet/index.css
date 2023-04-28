@@ -2,11 +2,25 @@
     background-color: antiquewhite;
 }
 
+
 h1 {
     text-align: center;
     font-weight: 900;
-    color:  #9fa8a3;
-    background-color: white;
+    font-size: 50px;
+    color: white;
+    padding: 10%;
+    background-color: #9fa8a3;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+p {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+a {
+    color: #9fa8a3;
+}
+
 
 
