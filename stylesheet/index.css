@@ -2,7 +2,6 @@
     background-color: antiquewhite;
 }
 
-
 h1 {
     text-align: center;
     font-weight: 900;
@@ -12,14 +11,21 @@ h1 {
     background-color: #9fa8a3;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+h3 {
+    background-color: #cfd5cb;
+
+}
 
 p {
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 900;
+    color:#4f5048;
+    
 }
 
 a {
-    color: #9fa8a3;
+    color: #020503;
+
 }
 
 
